@@ -1,5 +1,6 @@
 # shop_app
 
-Flutter app built using clean architecture and BLoC for state management
+- A Flutter application developed with Clean Architecture and BLoC for efficient state management.
+- Features smooth API integration, lazy loading, and robust error handling.
 
-https://fakestoreapi.com/products
+The app retrieves the product list using the following API: https://fakestoreapi.com/products
